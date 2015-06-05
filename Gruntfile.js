@@ -102,7 +102,7 @@ module.exports = function (grunt) {
             }
         },
         montage: {
-            "21x21": {
+            "16x16": {
                 files: {
                     dist: [
                         "res/emoji/*.png"
