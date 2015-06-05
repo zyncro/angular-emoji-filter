@@ -109,7 +109,7 @@ module.exports = function (grunt) {
                     ]
                 },
                 options: {
-                    size: 21,
+                    size: 16,
                     prefix: ".emoji",
                     outputImage: "emoji.png",
                     outputStylesheet: "emoji.css",
